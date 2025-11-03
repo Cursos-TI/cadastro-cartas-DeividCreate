@@ -102,7 +102,7 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Número de Pontos Turísticos: %d\n", pontos_turisticos1);
     printf("Densidade Populacional: %.4f hab/km²\n", densidade_populacional1);
-    printf("PIB por Capital: %.4f reais\n", PIB_Capital1);
+    printf("PIB per Capita: %.4f reais\n", PIB_Capital1);
 
 
 
@@ -116,7 +116,7 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", pib2);
     printf("Número de Pontos Turísticos: %d\n", pontos_turisticos2);
     printf("Densidade Populacional: %.4f hab/km²\n", densidade_populacional2);
-    printf("PIB por Capital: %.4f reais\n", PIB_Capital2);
+    printf("PIB per Capita: %.4f reais\n", PIB_Capital2);
     printf("=============================\n");
 
     return 0;
